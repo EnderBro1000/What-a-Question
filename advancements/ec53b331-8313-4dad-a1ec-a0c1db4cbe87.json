@@ -7,15 +7,21 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:frozen_river": "2023-11-06 22:04:39 -0700",
       "minecraft:forest": "2023-11-02 22:13:56 -0600",
       "minecraft:taiga": "2023-11-06 21:34:43 -0700",
-      "minecraft:windswept_forest": "2023-11-06 21:35:45 -0700",
-      "minecraft:swamp": "2023-11-02 21:10:46 -0600",
       "minecraft:snowy_plains": "2023-11-02 22:41:39 -0600",
       "minecraft:lush_caves": "2023-11-06 22:03:46 -0700",
       "minecraft:dripstone_caves": "2023-11-02 21:15:24 -0600",
       "minecraft:snowy_taiga": "2023-11-02 21:11:03 -0600",
+      "minecraft:ice_spikes": "2023-12-06 23:41:10 -0700",
+      "minecraft:frozen_ocean": "2023-12-06 22:19:29 -0700",
+      "minecraft:frozen_river": "2023-11-06 22:04:39 -0700",
+      "minecraft:windswept_forest": "2023-11-06 21:35:45 -0700",
+      "minecraft:deep_frozen_ocean": "2023-12-06 22:25:09 -0700",
+      "minecraft:swamp": "2023-11-02 21:10:46 -0600",
+      "minecraft:windswept_gravelly_hills": "2023-12-06 23:49:32 -0700",
+      "minecraft:windswept_hills": "2023-12-06 22:42:53 -0700",
+      "minecraft:snowy_beach": "2023-12-06 22:31:46 -0700",
       "minecraft:plains": "2023-11-02 22:38:13 -0600"
     },
     "done": false
@@ -8210,6 +8216,18 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2023-12-01 23:31:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2023-12-06 22:47:40 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/use_lodestone": {
+    "criteria": {
+      "use_lodestone": "2023-12-06 23:40:37 -0700"
     },
     "done": true
   },

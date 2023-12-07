@@ -1,0 +1,2 @@
+Ocean Monument: -1770, -266
+Stronghold Portal: -1744, 35, -170
