@@ -1,3 +1,5 @@
 Ocean Monument: -1770, -266
 Stronghold Portal: -1744, 35, -170 (N: -218, -21)
 New Base: 640, -430 (N: 80, -54)
+End Gateway: north of -932, 1098
+Next End City: SWW of -722, 1766
