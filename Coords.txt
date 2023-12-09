@@ -1,3 +1,3 @@
 Ocean Monument: -1770, -266
 Stronghold Portal: -1744, 35, -170 (N: -218, -21)
-New Base: 940, -480 
+New Base: 640, -430 (N: 80, -54)
