@@ -7,22 +7,29 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:badlands": "2023-12-11 21:41:40 -0700",
+      "minecraft:flower_forest": "2023-12-11 21:26:03 -0700",
       "minecraft:forest": "2023-11-02 21:17:04 -0600",
       "minecraft:taiga": "2023-12-06 22:17:43 -0700",
+      "minecraft:mangrove_swamp": "2023-12-11 21:31:33 -0700",
       "minecraft:river": "2023-12-06 23:42:10 -0700",
       "minecraft:snowy_plains": "2023-11-02 22:03:02 -0600",
       "minecraft:dripstone_caves": "2023-11-02 21:24:41 -0600",
       "minecraft:snowy_taiga": "2023-11-02 21:10:56 -0600",
       "minecraft:ice_spikes": "2023-11-12 21:28:19 -0700",
       "minecraft:frozen_ocean": "2023-12-06 22:19:30 -0700",
+      "minecraft:eroded_badlands": "2023-12-11 21:41:48 -0700",
+      "minecraft:desert": "2023-12-11 21:41:34 -0700",
       "minecraft:frozen_river": "2023-11-12 20:48:16 -0700",
       "minecraft:deep_frozen_ocean": "2023-12-06 22:21:06 -0700",
       "minecraft:windswept_forest": "2023-12-06 22:16:53 -0700",
+      "minecraft:jungle": "2023-12-11 21:32:25 -0700",
       "minecraft:cherry_grove": "2023-12-06 23:44:42 -0700",
       "minecraft:sunflower_plains": "2023-12-06 23:45:26 -0700",
       "minecraft:swamp": "2023-11-02 21:10:59 -0600",
       "minecraft:windswept_hills": "2023-11-12 20:48:45 -0700",
       "minecraft:snowy_beach": "2023-12-06 22:29:41 -0700",
+      "minecraft:savanna": "2023-12-11 21:22:01 -0700",
       "minecraft:plains": "2023-11-02 21:18:11 -0600"
     },
     "done": false
@@ -529,6 +536,7 @@
       "spider_eye": "2023-11-02 22:02:24 -0600",
       "cooked_chicken": "2023-11-02 21:40:48 -0600",
       "potato": "2023-12-01 23:50:15 -0700",
+      "rabbit": "2023-12-11 21:53:43 -0700",
       "cod": "2023-12-06 22:37:46 -0700",
       "carrot": "2023-11-12 23:11:00 -0700"
     },
@@ -8221,30 +8229,6 @@
     },
     "done": true
   },
-  "minecraft:end/dragon_egg": {
-    "criteria": {
-      "dragon_egg": "2023-12-08 21:54:00 -0700"
-    },
-    "done": true
-  },
-  "minecraft:end/find_end_city": {
-    "criteria": {
-      "in_city": "2023-12-08 22:26:17 -0700"
-    },
-    "done": true
-  },
-  "minecraft:end/enter_end_gateway": {
-    "criteria": {
-      "entered_end_gateway": "2023-12-08 22:09:09 -0700"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2023-12-08 21:51:55 -0700"
-    },
-    "done": true
-  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2023-12-08 21:45:18 -0700"
@@ -8254,6 +8238,30 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2023-12-08 21:45:18 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2023-12-08 21:51:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2023-12-08 21:54:00 -0700"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2023-12-08 22:09:09 -0700"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2023-12-08 22:26:17 -0700"
     },
     "done": true
   },

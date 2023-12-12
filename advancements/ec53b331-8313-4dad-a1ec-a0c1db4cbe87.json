@@ -468,6 +468,7 @@
       "minecraft:piglin": "2023-11-12 21:47:49 -0700",
       "minecraft:silverfish": "2023-11-06 21:45:22 -0700",
       "minecraft:enderman": "2023-11-11 22:56:26 -0700",
+      "minecraft:stray": "2023-12-11 21:22:51 -0700",
       "minecraft:magma_cube": "2023-11-12 23:15:15 -0700",
       "minecraft:endermite": "2023-12-08 22:50:25 -0700",
       "minecraft:spider": "2023-11-02 21:31:22 -0600",
@@ -770,6 +771,7 @@
       "rotten_flesh": "2023-11-02 21:39:16 -0600",
       "cooked_mutton": "2023-11-02 22:39:42 -0600",
       "cooked_beef": "2023-11-06 22:36:50 -0700",
+      "baked_potato": "2023-12-11 21:50:26 -0700",
       "pumpkin_pie": "2023-12-03 17:18:14 -0700"
     },
     "done": false
@@ -8235,48 +8237,6 @@
     },
     "done": true
   },
-  "minecraft:end/kill_dragon": {
-    "criteria": {
-      "killed_dragon": "2023-12-08 21:53:10 -0700"
-    },
-    "done": true
-  },
-  "minecraft:nether/brew_potion": {
-    "criteria": {
-      "potion": "2023-12-08 22:55:21 -0700"
-    },
-    "done": true
-  },
-  "minecraft:end/dragon_egg": {
-    "criteria": {
-      "dragon_egg": "2023-12-08 21:53:55 -0700"
-    },
-    "done": true
-  },
-  "minecraft:end/find_end_city": {
-    "criteria": {
-      "in_city": "2023-12-08 22:24:34 -0700"
-    },
-    "done": true
-  },
-  "minecraft:end/enter_end_gateway": {
-    "criteria": {
-      "entered_end_gateway": "2023-12-08 22:15:24 -0700"
-    },
-    "done": true
-  },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2023-12-08 22:55:03 -0700"
-    },
-    "done": true
-  },
-  "minecraft:end/dragon_breath": {
-    "criteria": {
-      "dragon_breath": "2023-12-08 21:46:41 -0700"
-    },
-    "done": true
-  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2023-12-08 21:26:55 -0700"
@@ -8292,6 +8252,60 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2023-12-08 21:45:17 -0700"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2023-12-08 21:46:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2023-12-08 21:53:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2023-12-08 21:53:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2023-12-08 22:15:24 -0700"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2023-12-08 22:24:34 -0700"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2023-12-08 22:55:03 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2023-12-08 22:55:21 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2023-12-11 21:54:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2023-12-11 19:58:12 -0700"
     },
     "done": true
   },
